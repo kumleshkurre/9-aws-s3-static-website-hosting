@@ -121,7 +121,7 @@
 
 - Paste the policy below
 (Replace the bucket name if required)
-```
+```js
 {
   "Version": "2012-10-17",
   "Statement": [
